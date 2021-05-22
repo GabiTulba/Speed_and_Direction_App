@@ -1,0 +1,2 @@
+rootProject.name = "ProiectAd"
+include ':app'
